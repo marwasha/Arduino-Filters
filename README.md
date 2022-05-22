@@ -1,6 +1,5 @@
-[![Build Status](https://github.com/tttapa/Arduino-Filters/workflows/CI%20Tests/badge.svg)](https://github.com/tttapa/Arduino-Filters/actions)
-[![Test Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tttapa/Arduino-Filters/master/docs/Coverage/shield.io.coverage.json)](https://tttapa.github.io/Arduino-Filters/Coverage/index.html)
-[![Build Status](https://travis-ci.org/tttapa/Arduino-Filters.svg?branch=master)](https://travis-ci.org/tttapa/Arduino-Filters)
+[![Build Status](https://github.com/tttapa/Arduino-Filters/workflows/CI%20Tests/badge.svg#)](https://github.com/tttapa/Arduino-Filters/actions)
+[![Test Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/tttapa/Arduino-Filters/gh-pages/Coverage/shield.io.coverage.json)](https://tttapa.github.io/Arduino-Filters/Coverage/index.html)
 [![GitHub](https://img.shields.io/github/stars/tttapa/Arduino-Filters?label=GitHub&logo=github)](https://github.com/tttapa/Arduino-Filters)
 
 # Arduino Filters
@@ -86,10 +85,14 @@ For each commit, the continuous integration tests compile the examples for the
 following boards:
 
 - Arduino UNO
+- Arduino Mega
 - Arduino Leonardo
 - Teensy 3.2
+- Teensy 4.1
 - Arduino Due
 - Arduino Nano 33 IoT
+- Arduino Nano 33 BLE
+- Arduino Nano Every
 - ESP8266
 - ESP32
 
